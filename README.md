@@ -1,1 +1,3 @@
 # Data-hiding-using-Steganography
+SECRET-INFORMATION-STORING Image Steganography Using Python and tkinter Steganography project with gui. Hides text inside image. Least Significant Algorithm (LSB) is used to hide the text. What is Steganography ? Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video.
+Here in this code we give image and text to be concealed in an image and press Encode. To retrieve the data press Decode. def main(self,root): root.title('SECRET INFORMATION STORING SYSTEM') root.geometry('500x800') # root.resizable(width =False, height=False) f = Frame(root)
