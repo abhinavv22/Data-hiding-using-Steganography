@@ -41,9 +41,9 @@ This is a Python project for a Secret Information Storing System using the tkint
 
 ## Credits
 
-This project was created by Nilesh Kumar Singh
+This project was created by Abhinav Singh
 
-If you have any questions or issues, please contact [30131csiot@gmail.com].
+If you have any questions or issues, please contact [abhinavsinghh2019@gmail.com].
 
 
-To see further more steps how it works go to the given link-  https://github.com/nileshsingh26/Secret-Data-Hiding
+To see further more steps how it works go to the given link-  https://github.com/abhinavv22/Data-hiding-using-Steganography
